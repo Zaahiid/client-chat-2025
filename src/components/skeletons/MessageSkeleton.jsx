@@ -1,4 +1,4 @@
-const MessageSkelton = () => {
+const MessageSkeleton = () => {
   const skeletonMessages = Array(6).fill(null);
 
   return (
@@ -27,4 +27,4 @@ const MessageSkelton = () => {
   );
 };
 
-export default MessageSkelton;
+export default MessageSkeleton;
